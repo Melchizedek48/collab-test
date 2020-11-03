@@ -1,9 +1,13 @@
 <!DOCTYPE html> 
 <html>
-  
-<script></script>  
-  
+
+<head>
+
+<script></script>
+
 <style></style>
+
+</head>
   
 <body> 
   
