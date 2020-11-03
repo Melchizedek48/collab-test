@@ -12,7 +12,7 @@
   </h1>
 
 <h2>
-Hello World
+Hello World by Kuma
 </h2>
   
   <ul>
